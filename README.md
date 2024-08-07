@@ -6,22 +6,24 @@
    
 </div>
 
+**SnapGram**
+Welcome to Snapgram, the ultimate social platform for photo enthusiasts! Snapgram allows you to capture and share your favorite moments with a vibrant community. Whether you're a budding photographer or someone who loves to document life's special moments, Snapgram is the perfect place to showcase your creativity.
 
-## 🚨 Tutorial
+Key Features:
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel.
+Seamless Photo Sharing: Upload your images effortlessly and share them with the Snapgram community. Engage and Socialize: Like, comment, and interact with other users' posts to build connections and grow your network. Explore and Discover: Browse through an endless feed of stunning photos from users around the world. Discover new perspectives and get inspired. Profile Customization: Personalize your profile to reflect your unique style and showcase your best shots. Privacy Control: Manage your privacy settings to control who sees your posts and follows your account.
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+Installation
+Install my-project with npm
 
+  npm Install
+  cd to snapgram
+  npm run dev 
+Tech Stack
+Client: React, Redux, TailwindCSS
 
+Server: Node, Express
 
-## <a name="introduction">🤖 Introduction</a>
-
-Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
 - Appwrite
@@ -53,6 +55,10 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **React Query Integration**: Incorporate the React Query (Tanstack Query) data fetching library for, Auto caching to enhance performance, Parallel queries for efficient data retrieval, First-class Mutations, etc
 
 👉 **Backend as a Service (BaaS) - Appwrite**: Utilize Appwrite as a Backend as a Service solution for streamlined backend development, offering features like authentication, database, file storage, and more
+
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="Logo" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20" height="20">
+
+
 
 
 
